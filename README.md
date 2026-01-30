@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -100,9 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
