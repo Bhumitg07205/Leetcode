@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bhumitg07205/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3379-transformed-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Bhumitg07205/Leetcode/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bhumitg07205/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Bhumitg07205/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
