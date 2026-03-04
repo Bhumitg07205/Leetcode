@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Bhumitg07205/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhumitg07205/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Bhumitg07205/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
