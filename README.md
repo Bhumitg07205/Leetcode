@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhumitg07205/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Bhumitg07205/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0799-champagne-tower](https://github.com/Bhumitg07205/Leetcode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Bhumitg07205/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
