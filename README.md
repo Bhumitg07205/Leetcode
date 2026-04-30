@@ -5,6 +5,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhumitg07205/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Bhumitg07205/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhumitg07205/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Bhumitg07205/Leetcode/tree/master/0198-house-robber) |
