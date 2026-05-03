@@ -139,6 +139,7 @@
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhumitg07205/Leetcode/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0796-rotate-string](https://github.com/Bhumitg07205/Leetcode/tree/master/0796-rotate-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bhumitg07205/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Bhumitg07205/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bhumitg07205/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
