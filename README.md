@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/Bhumitg07205/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Bhumitg07205/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
@@ -128,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/0056-merge-intervals) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Bhumitg07205/Leetcode/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
