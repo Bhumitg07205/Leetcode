@@ -24,6 +24,7 @@
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -155,6 +156,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bhumitg07205/Leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
