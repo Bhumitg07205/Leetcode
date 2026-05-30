@@ -27,6 +27,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -225,6 +226,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
+| [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Prefix Sum
 |  |
@@ -275,6 +277,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
