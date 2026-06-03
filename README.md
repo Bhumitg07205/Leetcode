@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhumitg07205/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Bhumitg07205/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhumitg07205/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bhumitg07205/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -147,6 +149,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
