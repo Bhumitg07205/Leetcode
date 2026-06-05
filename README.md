@@ -84,6 +84,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
