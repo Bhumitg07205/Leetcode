@@ -185,6 +185,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Bhumitg07205/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Bhumitg07205/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Bhumitg07205/Leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Bhumitg07205/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Bhumitg07205/Leetcode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0115-distinct-subsequences) |
