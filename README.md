@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -184,6 +185,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhumitg07205/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -200,6 +202,7 @@
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Bhumitg07205/Leetcode/tree/master/0796-rotate-string) |
@@ -332,6 +335,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0190-reverse-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
