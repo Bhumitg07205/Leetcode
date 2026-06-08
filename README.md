@@ -141,6 +141,7 @@
 | [0011-container-with-most-water](https://github.com/Bhumitg07205/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0061-rotate-list) |
+| [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -197,6 +198,7 @@
 | [0115-distinct-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/Bhumitg07205/Leetcode/tree/master/0796-rotate-string) |
@@ -239,6 +241,7 @@
 | [0198-house-robber](https://github.com/Bhumitg07205/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0518-coin-change-ii) |
