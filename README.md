@@ -21,6 +21,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumitg07205/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhumitg07205/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
