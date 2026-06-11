@@ -92,6 +92,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -334,11 +335,13 @@
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
