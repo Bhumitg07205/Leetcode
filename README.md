@@ -87,6 +87,7 @@
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhumitg07205/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/Bhumitg07205/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Bhumitg07205/Leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/Bhumitg07205/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumitg07205/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
