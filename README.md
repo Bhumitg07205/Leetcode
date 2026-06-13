@@ -25,6 +25,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumitg07205/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/Bhumitg07205/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -309,6 +310,7 @@
 | [0367-valid-perfect-square](https://github.com/Bhumitg07205/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumitg07205/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0875-koko-eating-bananas](https://github.com/Bhumitg07205/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bhumitg07205/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
