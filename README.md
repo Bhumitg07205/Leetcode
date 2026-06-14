@@ -83,6 +83,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -164,6 +165,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhumitg07205/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -248,6 +250,7 @@
 | [0020-valid-parentheses](https://github.com/Bhumitg07205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Bhumitg07205/Leetcode/tree/master/0071-simplify-path) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Bhumitg07205/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
