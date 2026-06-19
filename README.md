@@ -368,6 +368,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -384,6 +386,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
