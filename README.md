@@ -309,6 +309,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Bhumitg07205/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3693-climbing-stairs-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
@@ -352,6 +353,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
