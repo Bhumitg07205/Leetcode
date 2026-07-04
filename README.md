@@ -280,6 +280,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3620-network-recovery-pathways](https://github.com/Bhumitg07205/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhumitg07205/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -401,6 +402,7 @@
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -443,6 +445,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## String Matching
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bucket Sort
 |  |
 | ------- |
