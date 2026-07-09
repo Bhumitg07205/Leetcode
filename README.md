@@ -59,6 +59,7 @@
 | [3379-transformed-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Bhumitg07205/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -139,6 +140,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -287,6 +289,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bhumitg07205/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Bhumitg07205/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -360,6 +363,7 @@
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Bhumitg07205/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
@@ -474,6 +478,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bucket Sort
 |  |
 | ------- |
