@@ -79,6 +79,7 @@
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Bhumitg07205/Leetcode/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/Bhumitg07205/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Bhumitg07205/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bhumitg07205/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -105,6 +106,7 @@
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhumitg07205/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Bhumitg07205/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Bhumitg07205/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhumitg07205/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -125,6 +127,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhumitg07205/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Bhumitg07205/Leetcode/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
