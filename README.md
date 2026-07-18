@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bhumitg07205/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -137,6 +138,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Bhumitg07205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhumitg07205/Leetcode/tree/master/0242-valid-anagram) |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhumitg07205/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhumitg07205/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
