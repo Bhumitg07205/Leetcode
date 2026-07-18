@@ -139,6 +139,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Bhumitg07205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhumitg07205/Leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -232,6 +233,7 @@
 | [0164-maximum-gap](https://github.com/Bhumitg07205/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Bhumitg07205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Bhumitg07205/Leetcode/tree/master/0242-valid-anagram) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -267,6 +269,7 @@
 | [0115-distinct-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Bhumitg07205/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Bhumitg07205/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
