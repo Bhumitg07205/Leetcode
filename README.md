@@ -36,6 +36,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Bhumitg07205/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -268,6 +269,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Bhumitg07205/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhumitg07205/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bhumitg07205/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -393,6 +395,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Bhumitg07205/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/Bhumitg07205/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bhumitg07205/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -409,6 +412,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bhumitg07205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
