@@ -27,6 +27,7 @@
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Bhumitg07205/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Bhumitg07205/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
