@@ -444,6 +444,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -473,6 +475,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -511,6 +514,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Bhumitg07205/Leetcode/tree/master/0322-coin-change) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhumitg07205/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
