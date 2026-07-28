@@ -275,6 +275,7 @@
 | [2126-destroying-asteroids](https://github.com/Bhumitg07205/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhumitg07205/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhumitg07205/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -325,6 +326,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -589,4 +591,8 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhumitg07205/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhumitg07205/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
