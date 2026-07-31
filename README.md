@@ -170,6 +170,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhumitg07205/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -250,6 +251,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Bhumitg07205/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -279,6 +281,7 @@
 | [2126-destroying-asteroids](https://github.com/Bhumitg07205/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhumitg07205/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhumitg07205/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -327,6 +330,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Bhumitg07205/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -537,6 +541,7 @@
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
