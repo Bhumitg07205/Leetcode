@@ -122,6 +122,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Bhumitg07205/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Bhumitg07205/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Bhumitg07205/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Bhumitg07205/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Bhumitg07205/Leetcode/tree/master/0070-climbing-stairs) |
@@ -154,6 +155,7 @@
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhumitg07205/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Bhumitg07205/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Bhumitg07205/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Bhumitg07205/Leetcode/tree/master/0486-predict-the-winner) |
