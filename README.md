@@ -60,6 +60,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhumitg07205/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhumitg07205/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bhumitg07205/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhumitg07205/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -284,6 +285,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Bhumitg07205/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhumitg07205/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhumitg07205/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bhumitg07205/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -440,6 +442,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhumitg07205/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Bhumitg07205/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2498-frog-jump-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/2498-frog-jump-ii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bhumitg07205/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -454,6 +457,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Bhumitg07205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Bhumitg07205/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Bhumitg07205/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
