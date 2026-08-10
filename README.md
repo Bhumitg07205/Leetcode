@@ -646,4 +646,5 @@
 | [0595-big-countries](https://github.com/Bhumitg07205/Leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Bhumitg07205/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Bhumitg07205/Leetcode/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhumitg07205/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
