@@ -640,4 +640,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/1140-stone-game-ii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Bhumitg07205/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
