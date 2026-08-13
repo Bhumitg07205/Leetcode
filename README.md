@@ -647,6 +647,7 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Bhumitg07205/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Bhumitg07205/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Bhumitg07205/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhumitg07205/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/Bhumitg07205/Leetcode/tree/master/1045-customers-who-bought-all-products) |
