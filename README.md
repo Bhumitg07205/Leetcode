@@ -651,6 +651,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Bhumitg07205/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/Bhumitg07205/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Bhumitg07205/Leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhumitg07205/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Bhumitg07205/Leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Bhumitg07205/Leetcode/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhumitg07205/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
