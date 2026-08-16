@@ -658,6 +658,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Bhumitg07205/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/Bhumitg07205/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Bhumitg07205/Leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Bhumitg07205/Leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Bhumitg07205/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhumitg07205/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Bhumitg07205/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
