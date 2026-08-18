@@ -40,6 +40,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Bhumitg07205/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -136,6 +137,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Bhumitg07205/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhumitg07205/Leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhumitg07205/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Bhumitg07205/Leetcode/tree/master/1840-maximum-building-height) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhumitg07205/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -284,6 +287,7 @@
 | [0455-assign-cookies](https://github.com/Bhumitg07205/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-number-of-matching-subsequences](https://github.com/Bhumitg07205/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/Bhumitg07205/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Bhumitg07205/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -558,6 +562,7 @@
 | [0190-reverse-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumitg07205/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -694,4 +699,16 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
