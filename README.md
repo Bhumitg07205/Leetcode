@@ -504,6 +504,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -521,6 +522,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -539,6 +541,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhumitg07205/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Bhumitg07205/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -559,6 +562,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
@@ -677,4 +681,12 @@
 | [1729-find-followers-count](https://github.com/Bhumitg07205/Leetcode/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/Bhumitg07205/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhumitg07205/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhumitg07205/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
