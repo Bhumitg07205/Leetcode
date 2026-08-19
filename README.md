@@ -75,6 +75,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhumitg07205/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -190,6 +191,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhumitg07205/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Bhumitg07205/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
