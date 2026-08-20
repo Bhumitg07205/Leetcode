@@ -67,6 +67,7 @@
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Bhumitg07205/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Bhumitg07205/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Bhumitg07205/Leetcode/tree/master/3161-block-placement-queries) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Bhumitg07205/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -218,6 +219,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Bhumitg07205/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhumitg07205/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhumitg07205/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Bhumitg07205/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Bhumitg07205/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
