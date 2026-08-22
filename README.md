@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhumitg07205/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhumitg07205/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Bhumitg07205/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -245,6 +246,7 @@
 | [0061-rotate-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bhumitg07205/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhumitg07205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Bhumitg07205/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Bhumitg07205/Leetcode/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/Bhumitg07205/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -287,6 +289,7 @@
 | [0179-largest-number](https://github.com/Bhumitg07205/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Bhumitg07205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhumitg07205/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Bhumitg07205/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhumitg07205/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -715,4 +718,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
