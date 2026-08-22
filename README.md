@@ -116,6 +116,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhumitg07205/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhumitg07205/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhumitg07205/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -204,6 +205,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Bhumitg07205/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhumitg07205/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -565,6 +567,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Bhumitg07205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumitg07205/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -726,4 +729,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Bhumitg07205/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Bhumitg07205/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
